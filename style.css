@@ -1,0 +1,295 @@
+body {
+	min-width: 1000px;
+	background-color: black;
+	font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.first-table {
+	color: white;
+	font-size: 18px;
+	width: 985px;
+	text-align: left;
+	margin: auto;
+}
+
+.item {
+	background-color: #668291;
+	border: 2px inset black;
+}
+
+.earth {
+	display: block;
+	margin: auto;
+	width: 980px;
+}
+
+.first-item {
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	margin: 0;
+}
+
+.first-collum {
+	font-size: 18px;
+	padding-top: 16px;
+	color: white;
+	text-align: center;
+	width: 268px;
+	height: 115px;
+	background-color: #668291;
+	margin: 0;
+	margin-top: 2px;
+}
+
+.second-collum {
+	font-size: 18px;
+	padding-top: 16px;
+	color: white;
+	text-align: center;
+	width: 268px;
+	height: 115px;
+	background-color: #668291;
+	margin: 0;
+	margin-top: 2px;
+}
+
+.third-collum {
+	font-size: 18px;
+	padding-top: 16px;
+	color: white;
+	text-align: center;
+	width: 268px;
+	height: 115px;
+	background-color: #668291;
+	margin: 0;
+	margin-top: 2px;
+}
+
+.photo-table {
+	height: 115px;
+	margin-top: 2px;
+}
+
+.colortext {
+	color: #25B3FF;
+}
+
+.second-item {
+	color: white;
+	font-size: 30px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 100px;
+	background-color: #668291;
+	width: 980px;
+	margin-top: 2px;
+}
+
+.third-item {
+	width: 980px;
+	margin: auto;
+	color: white;
+	margin-top: 2px;
+}
+
+.first-text {
+	font-size: 18px;
+	width: 980px;
+	display: flex;
+	justify-content: space-between;
+	background-color: #668291;
+	margin: auto;
+	padding: 0 100px;
+	margin-top: 2px;
+}
+
+.fourth-item {
+	color: white;
+	width: 980px;
+	display: flex;
+	justify-content: space-between;
+	background-color: #668291;
+	margin: auto;
+	padding: 0;
+}
+
+.rendezvous {
+	color: white;
+	width: 980px;
+	display: flex;
+	justify-content: space-around;
+	background-color: #668291;
+	margin: auto;
+}
+
+.rendezvousone {
+	padding-left: 90px;
+}
+
+.rendezvousphoto {
+	height: 180px;
+}
+
+.rendezvoustwo {
+	padding-right: 100px;
+}
+
+.rendezvousthree {
+	display: flex;
+	justify-content: space-around;
+}
+
+.rendezvousfirstitem {
+	padding-right: 400px;
+}
+
+.rendezvousseconditem {
+	padding-right: 100px;
+}
+
+.tableitem {
+	padding-top: 9px;
+}
+
+.aproach {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.aproachone {
+	width: 485px;
+	background: rgba(104, 132, 195);
+	margin: 0 5px;
+	padding: 0 10px;
+}
+
+.aproachtwo {
+	width: 485px;
+	background: rgba(104, 132, 195);
+	margin: 0 5px;
+	padding: 0 10px;
+}
+
+.col {
+	width: 98px;
+	background-color: rgb(106, 140, 192);
+	margin: 2px;
+}
+
+.table {
+	color: white;
+	width: 953px;
+	margin: auto;
+}
+
+.box {
+	height: 40px;
+	width: 980px;
+	background-color: #668291;
+	margin: auto;
+}
+
+.boxitem {
+	width: 30%;
+	height: 100%;
+	background-color: #25B3FF;
+}
+
+.btn.btn-primary.btn-lg.active {
+	color: black;
+	width: 980px;
+	margin: auto;
+	background-color: #668291;
+	display: flex;
+	justify-content: center;
+}
+
+.header {
+	background-color: #668291;
+	color: white;
+	font-size: 30px;
+	width: 980px;
+	height: 50px;
+	margin: auto;
+	text-align: left;
+}
+
+.headeritem {
+	padding-left: 20px;
+	padding-top: 5px;
+}
+
+.windows {
+	display: flex;
+	justify-content: space-around;
+	background-color: #668291;
+	width: 980px;
+	margin: auto;
+	color: white;
+}
+
+.windowitemfirst {
+	font-size: 13px;
+}
+
+.windowitemsecond {
+	font-size: 45px;
+	color: #25B3FF;
+}
+
+.windowitemthird {
+	font-size: 13px;
+}
+
+.img-table {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.firstimg {
+	width: 980px;
+	height: 220px;
+}
+
+.btn-group {
+	width: 980px;
+	color: white;
+	background-color: #668291;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.text {
+	width: 980px;
+	font-size: 25px;
+	background-color: #668291;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+
+.textitemone {
+	padding-left: 10px;
+}
+
+.textitemtwo {
+	padding-right: 10px;
+}
+
+.last-img {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.lastimg {
+	width: 980px;
+	height: 600px;
+}
+
